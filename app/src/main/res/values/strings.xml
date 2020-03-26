@@ -3,5 +3,5 @@
 
     <string name="app_name">Fight</string>
     <string name="hello_world">Hello world!</string>
-
+    <string name="my_button_text">Boom</string>
 </resources>
